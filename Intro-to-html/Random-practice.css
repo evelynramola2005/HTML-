@@ -1,0 +1,58 @@
+body{
+    background-color:rgb(238, 175, 238) ;
+}
+.main{
+    display: flex;
+}
+.main-1{
+.jasmine{
+    font-family:Questrial;
+    color:rgb(95, 0, 95);
+    font-size: 40px;
+    font-weight:bold;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    display:inline-block;
+}
+}
+.main-2{
+.spirit{
+    font-family: Allura;
+    font-size:40px;
+    color:rgb(95, 0, 95);
+    margin-top:0px;
+    line-height:0px;
+    margin-left:40px;
+    display:inline-block;
+}
+}
+.main-3{
+.home{
+    font-family:Arial;
+    color:rgb(95, 0, 95);
+    font-size: 20px;
+    margin-top: 12px;
+    margin-bottom: 0px;
+    display:inline-block;
+    margin-left: 900px;    
+}
+}
+.shop{
+    margin-left: 50px;
+}
+.j{
+    margin-left: 50px;
+}
+.c{
+    margin-left:40px;
+    font-size: 20px;
+    background-color: rgb(95, 0, 95);
+    border: none;
+    color:rgb(238, 175, 238);
+    border-radius: 10px;
+    height:40px;
+    width:70px;
+    transition: 0.5s;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2);
+
+}

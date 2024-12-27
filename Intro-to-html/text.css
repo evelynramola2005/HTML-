@@ -1,0 +1,45 @@
+p{
+    font-family: Arial;
+    margin-top:0;
+  }
+
+.text-heading{
+  font-size:25px;
+  width:390px;
+  font-weight: bold;
+  line-height: 30px;
+  margin-bottom:10px;
+}
+
+.text-info{
+  font-size: 18px;
+  color:rgb(96, 96, 96);
+  margin-bottom:20px;
+}
+
+.tick-text{
+  font-size: 18px;
+  color:rgb(96, 96, 96);
+}
+
+.text-content{
+  font-size: 18px;
+  color:rgb(96, 96, 96);
+  width:350px;
+  margin-bottom: 120px;
+}
+.text-box{
+  font-size: 18px;
+  background-color: rgb(227, 65, 64);
+  color: white;
+  padding-top: 20px;
+  padding-left: 50px;
+  padding-bottom:20px;
+}
+
+.text-underline:hover{
+  text-decoration:underline;
+}
+.text-underline{
+  cursor: pointer;
+}

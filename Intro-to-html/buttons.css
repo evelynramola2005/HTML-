@@ -1,0 +1,83 @@
+.subscribe-button {
+    background-color:rgb(255, 11, 11);
+    color: white;
+    border:none;
+    border-radius: 1px;
+    cursor: pointer;
+    transition: opacity 1s; 
+    padding-left: 6px; 
+    padding-right: 6px;
+    padding-bottom: 6px;
+    padding-top: 6px; 
+ }
+ .subscribe-button:hover{
+     opacity:0.7;
+ }
+ .subscribe-button:active{
+     opacity: 0.5;
+ }
+ .archive-button{
+    background-color: white;
+    border-color: rgb(65, 65, 205);
+    border-style:solid;
+    border-width: 1px;
+    color:rgb(65, 65, 205);
+    height: 30px;
+    width: 80;
+    cursor: pointer;
+    font-size:10px;
+    border-radius:4px;
+    transition : 0.5s;
+    margin-left: 5px;
+ }
+ .archive-button:hover{
+     background-color: rgb(65, 65, 205);
+     color:white;
+ }
+ .archive-button:active{
+     opacity: 0.5;
+ }
+ .sending-button{
+    background-color: rgb(197, 3, 74);
+    border: none;
+    color:rgb(243, 213, 225);
+    border-radius: 30px;
+    font-size: 9px;
+    height: 30px;
+    width:100px;
+    margin-left: 7px;
+    margin-right: 4px;
+    transition: 0.5s;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2);
+ }
+ .sending-button:hover{
+     background-color: rgb(243, 213, 225);
+     border-color:rgb(197, 3, 74);
+     color:rgb(197, 3, 74);
+ }
+ .sending-button:active{
+     opacity: 0.5;
+ }
+ .stretch-button{
+    background-color: white;
+    border-color:rgba(213, 12, 196, 0.792);
+    border-style:solid;
+    border-width: 1px;
+    color:rgba(213, 12, 196, 0.792);
+    height: 30px;
+    width: 80px;
+    cursor: pointer;
+    font-size:10px;
+    border-radius:4px;
+    transition : 0.5s;
+    margin-left: 5px;
+ }
+ .stretch-button:hover{
+     background-color: rgba(213, 12, 196, 0.792);
+     color:white;
+     height: 60px;
+     width: 110px;
+ }
+ .stretch-button:active{
+     opacity: 0.5;
+ }
